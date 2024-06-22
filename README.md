@@ -1,1 +1,1 @@
-# Amazon Clone using html and CSS.
+# <h2>Amazon Clone using html and CSS.<h2>
