@@ -300,9 +300,9 @@ h5.shop{
         justify-items: center;
     }
     .box{
-       width: 50%;
+       width: 60%;
        height: 270px;
-       margin-left: 110px;
+       margin-left: 100px;
        margin-right: 100px;
        margin-bottom: 10px;
 
@@ -336,8 +336,6 @@ h5.shop{
     }
     .box-4 h5{
         margin-top: 1px;
-
-       
     }
 }
 
